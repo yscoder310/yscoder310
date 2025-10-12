@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/yourlinkedprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yscoder310&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
