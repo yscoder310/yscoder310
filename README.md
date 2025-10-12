@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm Yash <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="28"></h1>
 <p align="center">
   <em>Full Stack Engineer | AI Builder | Generative AI & Cloud Enthusiast</em>
 </p>
