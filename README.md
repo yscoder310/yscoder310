@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-LangChain-48A03F?style=flat-square&logo=data:image/svg+xml;base64,[...customicon...]" />
   <img src="https://img.shields.io/badge/-Copilot%20Studio-00C4B5?style=flat-square&logo=microsoft&logoColor=white" />
